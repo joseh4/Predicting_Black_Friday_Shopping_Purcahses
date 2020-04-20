@@ -1,4 +1,4 @@
-# Predicting_Black_Friday_Shopping_Purcahses
+# Predicting Black Friday Shopping Purcahses
 
 Predicting consumer purchase amounts on Black Friday
 
