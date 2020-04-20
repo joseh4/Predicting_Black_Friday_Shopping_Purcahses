@@ -13,11 +13,9 @@ Black Friday is one of the busisest times of years for retail stores and online 
 
 
 ### Data
-train.csv
-test.csv
 
 The data was collected by Analyitcs Vidhya.
-A copy of the data can be found here: <b>[Data](https://github.com/the-trace-and-buzzfeed-news/local-police-data-analysis/tree/master/inputs)</b>
+A copy of the data can be found here: <b>[Data](https://github.com/joseh4/Predicting_Black_Friday_Shopping_Purcahses/blob/working/data.zip)</b>
 
 ### Methodology
 
